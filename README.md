@@ -54,7 +54,7 @@ Sois totalmente libres de modificar el sistema.
 
 Lanzamiento de RafarixOS Core estimado para finales de 2024
 
-##Agradecimientos
+## Agradecimientos
 
 Especial enfasis en la herramienta principal que ha permitido el desarrollo de RafarixOS, la herramienta Open Source [CUBIC](https://github.com/PJ-Singh-001/Cubic)
 
