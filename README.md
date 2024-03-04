@@ -63,4 +63,5 @@ Especial enfasis en la herramienta principal que ha permitido el desarrollo de R
 #### Linux Mint
 
 Pagina Web: https://github.com/linuxmint
+
 GitHub: https://github.com/linuxmint
