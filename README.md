@@ -1,5 +1,5 @@
 # RafarixOS
-RafarixOS es una distribución de GNU/Linux basada en Debian, cuenta con las ultimas actualizaciones de GNOME, inspirado en distribuciones como Fedora, Manjaro y Linux Mint pero con un toque de simpleza, actualizada y con herramientas concretas.
+RafarixOS es una distribución de GNU/Linux basada en Linux Mint, cuenta con las ultimas actualizaciones de Cinnamon, inspirado en distribuciones como Fedora, Manjaro y Linux Mint pero con un toque de simpleza, actualizada y con herramientas concretas.
 
 ![RafarixOS](https://github.com/xoanxc/RafarixOS/blob/main/assets/images/PreLudeOSRedonded.png)
 
@@ -56,5 +56,11 @@ Lanzamiento de RafarixOS Core estimado para finales de 2024
 
 ## Agradecimientos
 
+#### CUBIC
+
 Especial enfasis en la herramienta principal que ha permitido el desarrollo de RafarixOS, la herramienta Open Source [CUBIC](https://github.com/PJ-Singh-001/Cubic)
 
+#### Linux Mint
+
+Pagina Web: https://github.com/linuxmint
+GitHub: https://github.com/linuxmint
