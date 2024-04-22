@@ -62,6 +62,6 @@ Especial enfasis en la herramienta principal que ha permitido el desarrollo de R
 
 #### Cannonical y la comunidad de Ubuntu
 
-Cannonical: https://ubuntu.com/
+Canonical: https://ubuntu.com/
 
 Comunidad: https://ubuntu.com/community
