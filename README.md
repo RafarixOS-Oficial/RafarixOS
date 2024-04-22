@@ -27,7 +27,7 @@ Esta versión incluye la experiencia mas "pura" de RafarixOS pero tambien la mas
 
 Procesador con 2 o mas nucleos a 2GHz
 
-Memoría RAM 4GB
+Memoria RAM 4GB
 
 Tarjeta Grafica 1GB
 
@@ -38,7 +38,7 @@ Esta versión trata de ofrecer una experiencia mas basica utilizando un escritor
 
 Procesador con 2 o mas nucleos a 1GHz
 
-Memoría RAM 2GB
+Memoria RAM 2GB
 
 Tarjeta Grafica 512MB
 
