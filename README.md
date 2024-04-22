@@ -1,5 +1,5 @@
 # RafarixOS
-RafarixOS es una distribución de GNU/Linux basada en Linux Mint, cuenta con las ultimas actualizaciones de Cinnamon, inspirado en distribuciones como Fedora, Manjaro y Linux Mint pero con un toque de simpleza, actualizada y con herramientas concretas.
+RafarixOS es una distribución de GNU/Linux basada en Ubuntu, cuenta con la mayor estabilidad que ofrece Cannonical en sus versiones LTS, inspirado en distribuciones como Fedora, Manjaro y Linux Mint pero con un toque de simpleza, actualizada y con herramientas concretas.
 
 ![RafarixOS](https://github.com/xoanxc/RafarixOS/blob/main/assets/images/PreLudeOSRedonded.png)
 
@@ -20,16 +20,16 @@ La iso se distribuye de manera libre bajo los terminos de licencia GNU, por tant
 [installation-guide](https://github.com/xoanxc/RafarixOS/blob/main/documentation/guide/installation-guide.md)
 
 # Features
-RafarixOS cuenta con 3 versiones diferentes:
+RafarixOS cuenta con 3 versiones diferentes para adaptarse a los usuarios:
 
 ### RafarixOS ONE
 Esta versión incluye la experiencia mas "pura" de RafarixOS pero tambien la mas pesada por lo tanto no es tan recomendada para equipos antiguos, esta versión tiene unos requisitos de Hardware medios, nosotros recomendamos duplicar estos requisitos:
 
 Procesador con 2 o mas nucleos a 2GHz
 
-Memoría RAM 2GB
+Memoría RAM 4GB
 
-Tarjeta Grafica 128MB
+Tarjeta Grafica 1GB
 
 20GB de espacio libre en disco
 
@@ -38,9 +38,9 @@ Esta versión trata de ofrecer una experiencia mas basica utilizando un escritor
 
 Procesador con 2 o mas nucleos a 1GHz
 
-Memoría RAM 1GB
+Memoría RAM 2GB
 
-Tarjeta Grafica 128MB
+Tarjeta Grafica 512MB
 
 15GB de espacio libre en disco
 
@@ -52,7 +52,7 @@ Sois totalmente libres de modificar el sistema.
 
 # Releases
 
-Lanzamiento de RafarixOS Core estimado para finales de 2024
+Pre-Lanzamiento de RafarixOS para finales de 2024
 
 ## Agradecimientos
 
@@ -60,8 +60,8 @@ Lanzamiento de RafarixOS Core estimado para finales de 2024
 
 Especial enfasis en la herramienta principal que ha permitido el desarrollo de RafarixOS, la herramienta Open Source [CUBIC](https://github.com/PJ-Singh-001/Cubic)
 
-#### Linux Mint
+#### Cannonical y la comunidad de Ubuntu
 
-Pagina Web: https://github.com/linuxmint
+Cannonical: https://ubuntu.com/
 
-GitHub: https://github.com/linuxmint
+Comunidad: https://ubuntu.com/community
