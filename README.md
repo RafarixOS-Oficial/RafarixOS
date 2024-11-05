@@ -56,7 +56,7 @@ Sois totalmente libres de modificar el sistema.
 
 # Releases
 
-Pre-Lanzamiento de RafarixOS para finales de 2024
+ups
 
 ## Agradecimientos
 
