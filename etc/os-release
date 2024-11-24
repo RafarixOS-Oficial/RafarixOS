@@ -1,0 +1,12 @@
+PRETTY_NAME="RafarixOS 1.0.0"
+NAME="RafarixOS"
+VERSION_ID="1.0.0"
+VERSION="1.0.0 (Rafael)"
+VERSION_CODENAME=rafael
+ID=rafarixos
+ID_LIKE=debian
+HOME_URL="https://rafarixos-oficial.github.io/"
+SUPPORT_URL="https://github.com/RafarixOS-Oficial/RafarixOS/issues"
+BUG_REPORT_URL="https://github.com/RafarixOS-Oficial/RafarixOS/issues"
+PRIVACY_POLICY_URL="https://www.ubuntu.com/legal/terms-and-policies/privacy-policy"
+LOGO=rafarixos-logo
