@@ -21,7 +21,7 @@ La iso se distribuye de manera libre bajo los terminos de licencia GNU, por tant
 
 ### Tools
 
-neofetch RafarixOS version: https://github.com/xoanxc/neofetch-rafarixos
+neofetch RafarixOS version: https://github.com/RafarixOS/NeoFetchForRafarix
 
 # Features
 RafarixOS cuenta con 3 versiones diferentes para adaptarse a los usuarios:
